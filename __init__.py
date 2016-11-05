@@ -10,7 +10,7 @@ from bs4 import  BeautifulSoup
 
 __author__ = 'Eleflea'
 __version__ = '0.0.1'
-__all__ = ['getEaxmIfo', 'linkWrapper']
+__all__ = ['getExamIfo', 'linkWrapper', 'PRO', 'COMPLEX', 'MATHE']
 
 PRO = '概率统计_GL'
 COMPLEX = '复变函数_FB'
