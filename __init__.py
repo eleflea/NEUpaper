@@ -45,5 +45,5 @@ def linkWrapper(src):
 
 if __name__ == '__main__':
 	stuNum = 20124321
-	l_exam = getEaxmIfo(stuNum, COMPLEX)
+	l_exam = getExamIfo(stuNum, COMPLEX)
 	print(l_exam)
