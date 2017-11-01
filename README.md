@@ -1,6 +1,8 @@
 NEUpaper
 --------
 
+## Since 2017/09/30, the server no longer exists.
+
 ### How
 
 After the teachers release the exams, the ftp server (202.118.26.80) will generate hundreds of papers. For some unknow reason, every student ID will be linked with fixed paper, not random. Actually, your test paper will be doomed as soon as the exam releases. That's why we can foresee and even download the papers from the website (both http and ftp). Particularly, ftp server has a password. 
